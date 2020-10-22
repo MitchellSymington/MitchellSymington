@@ -1,12 +1,8 @@
-
+# Mitchell Symington
 
 ### Hi there 👋
 
-<!--
-**MitchellSymington/MitchellSymington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- U+1F468 U+200D U+1F4BB
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
