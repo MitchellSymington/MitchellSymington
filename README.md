@@ -1,3 +1,5 @@
+<img align="right" src="https://www.gratispng.com/png-tpgeln/download.html" width="350"/>
+
 # Mitchell Symington
 
 ### Hi there 👋
