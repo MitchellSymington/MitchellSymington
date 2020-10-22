@@ -1,4 +1,4 @@
-<img align="right" src="https://www.gratispng.com/png-tpgeln/download.html" width="350"/>
+<img align="right" src=""/>
 
 # Mitchell Symington
 
