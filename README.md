@@ -2,7 +2,7 @@
 🛠️ **Developer specialized in Python, Shell Script, and PL/SQL**
 
 ---
-<img align="right" src="47c6cb50-443d-44c8-bcbe-8a5b7cbbb1d2.png" width="350"/>
+<img align="right" src="47c6cb50-443d-44c8-bcbe-8a5b7cbbb1d2.png" width="300"/>
 
 ### 🐍 Python & Automation  
 Experienced in scripting for automation, data extraction, and handling CSV/Excel/JSON files.  
