@@ -1,7 +1,5 @@
 <img align="right" src="kisspng-front-end-web-development-web-developer-front-and-developer-5ad00d74750247.5716044915235843724793.png" width="350"/>
 
----
-
 👋 Hi there! I'm Mitchell  
 🛠️ Developer specialized in Python, Shell Script, and PL/SQL
 
