@@ -1,25 +1,30 @@
 <img align="right" src="47c6cb50-443d-44c8-bcbe-8a5b7cbbb1d2.png" width="350"/>
 
-👋 Hi there! I'm Mitchell  
-🛠️ Developer specialized in Python, Shell Script, and PL/SQL
-
-🐍 Experienced in Python scripting for automation, data extraction, and Excel/CSV/JSON handling  
-🔧 Frameworks/libraries: Tkinter, Selenium, Pandas, Requests, BeautifulSoup, Flask  
-💻 Skilled in Shell Script for system automation, batch jobs, and Unix/Linux tasks  
-🧠 Proficient in PL/SQL for Oracle databases: procedures, triggers, and batch processing  
-💼 Currently developing a credit recovery system using JavaScript, C, PL/SQL, Shell Script  
-🌐 JS Stack: Node.js, Express, basic frontend/backend scripting  
-📊 Focused on building tools that streamline business processes and reduce manual effort  
-📚 Passionate about learning and delivering practical solutions with scripting & backend tech
+# 👋 Hi there! I'm Mitchell  
+🛠️ **Developer specialized in Python, Shell Script, and PL/SQL**
 
 ---
 
-📫 Let’s connect!
-I help businesses automate tasks, process data, and build backend tools using Python, Shell, and PL/SQL.
+### 🐍 Python & Automation  
+Experienced in scripting for automation, data extraction, and handling CSV/Excel/JSON files.  
+**Frameworks & libs:** `Tkinter`, `Selenium`, `Pandas`, `Requests`, `BeautifulSoup`, `Flask`
+
+### 💻 Shell Scripting & Linux  
+Skilled in system-level automation, cron jobs, and Unix/Linux shell tasks.
+
+### 🧠 Oracle & PL/SQL  
+Proficient in writing procedures, triggers, and batch jobs for Oracle databases.
+
+### 🌐 JavaScript Stack  
+Using `Node.js`, `Express`, and basic frontend/backend scripting.
+
+### 📊 What I Build  
+Tools that streamline business processes, reduce manual effort, and improve efficiency.
 
 ---
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-silva-b40027178/)](https://www.linkedin.com/in/mitchell-symington-44406524/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mitch.palha@gmail.com)](mailto:mitch.palha@gmail.com)
+## 📫 Let’s Connect  
+I help businesses automate tasks, process data, and build backend tools.
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mitchell-symington-44406524/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mitch.palha@gmail.com)
