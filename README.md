@@ -1,15 +1,15 @@
 <img align="right" src="kisspng-front-end-web-development-web-developer-front-and-developer-5ad00d74750247.5716044915235843724793.png" width="350"/>
 
-👋 Hi there! I'm Mitchell
+👋 Hi there! I'm Mitchell  
 🛠️ Developer specialized in Python, Shell Script, and PL/SQL
 
-🐍 Experienced in Python scripting for automation, data extraction, and Excel/CSV/JSON handling
-🔧 Frameworks/libraries: Tkinter, Selenium, Pandas, Requests, BeautifulSoup, Flask
-💻 Skilled in Shell Script for system automation, batch jobs, and Unix/Linux tasks
-🧠 Proficient in PL/SQL for Oracle databases: procedures, triggers, and batch processing
-💼 Currently developing a credit recovery system using JavaScript, C, PL/SQL, Shell Script
-🌐 JS Stack: Node.js, Express, basic frontend/backend scripting
-📊 Focused on building tools that streamline business processes and reduce manual effort
+🐍 Experienced in Python scripting for automation, data extraction, and Excel/CSV/JSON handling  
+🔧 Frameworks/libraries: Tkinter, Selenium, Pandas, Requests, BeautifulSoup, Flask  
+💻 Skilled in Shell Script for system automation, batch jobs, and Unix/Linux tasks  
+🧠 Proficient in PL/SQL for Oracle databases: procedures, triggers, and batch processing  
+💼 Currently developing a credit recovery system using JavaScript, C, PL/SQL, Shell Script  
+🌐 JS Stack: Node.js, Express, basic frontend/backend scripting  
+📊 Focused on building tools that streamline business processes and reduce manual effort  
 📚 Passionate about learning and delivering practical solutions with scripting & backend tech
 
 ---
